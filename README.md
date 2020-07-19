@@ -5,12 +5,11 @@ This is a Simple CMS application with full CRUD functionalities. It has authenti
 
 
 ## Getting Started
----
 ## Prerequisites
 1. PHP >= 7
 1. Composer
 
----
+
 ## installization
 1. Clone the Repository
     ```
